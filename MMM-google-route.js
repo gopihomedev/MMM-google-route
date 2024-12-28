@@ -85,7 +85,7 @@ Module.register("MMM-google-route", {
             var directionsDisplay0 = new google.maps.DirectionsRenderer({
                 suppressMarkers : true,
                 polylineOptions:{
-                    strokeColor:'#fff',
+                    strokeColor:'#4285F4',
                     strokeWeight:7
                 }
             });
