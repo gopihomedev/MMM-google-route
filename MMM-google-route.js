@@ -71,7 +71,7 @@ Module.register("MMM-google-route", {
         var self = this;
         function mapsScriptLoaded() {
             var map = new google.maps.Map(wrapper, {
-                styles:mmmGoogleRouteMapStyles,
+                // styles:mmmGoogleRouteMapStyles,
                 zoomControl:false,
                 streetViewControl:false,
                 scaleControl:false,
